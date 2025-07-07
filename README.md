@@ -1,5 +1,5 @@
 # DSA-151-ProblemsByPiyushGhoshi
-A curated list of 151 DSA problems by Piyush Ghoshi, categorized by topic and difficulty (Easy/Medium/Hard). Covers arrays, recursion, DP, graphs, trees, and more. Ideal for interview prep, competitive programming, and structured DSA learning.
+A curated list of 150+ DSA problems by Piyush Ghoshi, categorized by topic and difficulty (Easy/Medium/Hard). Covers arrays, recursion, DP, graphs, trees, and more. Ideal for interview prep, competitive programming, and structured DSA learning.
 # 📘 DSA Problem Classification by Piyush Ghoshi
 
 Here is the Link: https://1drv.ms/x/c/5ba6567dc06dd143/ET0UqD3gydZPmP_DVAaPTdUB9ADyvTZTmpHzvjy7f3AqqA?e=1euDDy
