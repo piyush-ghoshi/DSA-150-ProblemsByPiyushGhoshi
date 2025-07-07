@@ -3,7 +3,9 @@ A curated list of 150+ DSA problems by Piyush Ghoshi, categorized by topic and d
 # 📘 DSA Problem Classification by Piyush Ghoshi
 
 Here is the Link: https://1drv.ms/x/c/5ba6567dc06dd143/ET0UqD3gydZPmP_DVAaPTdUB9ADyvTZTmpHzvjy7f3AqqA?e=1euDDy
-Connect With Me: LinkedIn:https://www.linkedin.com/in/piyush-ghoshi/      E-mail:Piyushghoshi8770@gmail.com 
+
+Connect With Me: 
+LinkedIn:https://www.linkedin.com/in/piyush-ghoshi/      E-mail:Piyushghoshi8770@gmail.com 
 Welcome to this repository — a comprehensive collection of **151 Data Structures and Algorithms (DSA) problems**, personally **curated and classified** by **Piyush Ghoshi**. This list serves as a well-organized roadmap for mastering DSA through consistent practice, especially for those targeting technical interviews, coding competitions, or strengthening core programming skills.
 
 ## 📂 What’s Inside?
