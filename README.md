@@ -12,15 +12,15 @@ Welcome to this repository — a comprehensive collection of **151 Data Structur
 
 This project categorizes problems into major topics such as:
 
-- 🔢 **Arrays & Two Pointers**  
-- 🔁 **Recursion & Backtracking**  
-- 🧠 **Bit Manipulation & Hash Maps**  
-- ⛓️ **Heaps, Stacks & Queues**  
-- 🔗 **Linked Lists**  
-- 🌳 **Trees & Tries**  
-- 🔍 **Binary Search**  
-- 🧮 **Dynamic Programming (DP)**  
-- 🌐 **Graphs & Advanced Algorithms**
+- **Arrays & Two Pointers**  
+- **Recursion & Backtracking**  
+- **Bit Manipulation & Hash Maps**  
+- **Heaps, Stacks & Queues**  
+- **Linked Lists**  
+- **Trees & Tries**  
+- **Binary Search**  
+- **Dynamic Programming (DP)**  
+- **Graphs & Advanced Algorithms**
 
 Each problem is clearly labeled as **Easy**, **Medium**, or **Hard**, based on standard online judge platforms like LeetCode, Codeforces, and GeeksforGeeks. This makes it easy for learners to prioritize their practice based on comfort level and difficulty.
 
